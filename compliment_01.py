@@ -1,8 +1,8 @@
 # FILE NAME - compliment_01.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Ben Snider
+# DATE: October 1, 2025
+# BRIEF DESCRIPTION: Compliment 
 
 
 
@@ -14,8 +14,10 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
-
-
+answer = input('Would you like a compliment?: ')
+if answer == 'yes':
+    print('You have wonderful eyes.')
+print('Thank you for playing.')
 
 
 
@@ -66,13 +68,13 @@ Thank you for playing.
 '''
 
 1. On a scale of 1 to 10 (where 10 is the hardest), how would you rate this lab?
-
+I would rate this lab a 3.
 
 
 
 2. What was the hardest part of this lab?
-
-
+The hardest part for me was just retaining the information from the reading and not mixing 
+it up with anything from previous weeks.
 
 
 
